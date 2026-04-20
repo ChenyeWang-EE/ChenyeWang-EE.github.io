@@ -8,7 +8,7 @@ This repository hosts the personal academic homepage of Chenye Wang.
 - `assets/css/theme.css`: visual styles and responsive layout
 - `assets/img/`: profile and institution assets
 - `assets/cv/`: downloadable CV file
-- `main.tex`: LaTeX source for the CV
+<!-- - `main.tex`: LaTeX source for the CV -->
 
 ## Local Preview
 
